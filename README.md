@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li> 경남대학교 컴퓨터공학과 졸업</li><li> 융합인공지능연구실 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li> 경남대학교 컴퓨터공학과 졸업</li><li> 융합인공지능연구실<li> (국비) AI 활용 소프트웨어 개발 및 응용과정 수강중</div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
